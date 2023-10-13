@@ -11,7 +11,7 @@ Basic API server with middleware and practice deployment.
 ### Links and Resources
 
 - [GitHub Actions ci/cd](https://github.com/rkgallaway/server-deployment-practice-d51/actions)
-- [back-end server url](http://xyz.com) (when applicable)
+- [Back-end server url](https://server-deployment-practice-dev-2lou.onrender.com/)
 
 ### Collaborators
 
@@ -39,6 +39,7 @@ for now I have none and do not require one
 `npm test`
 - Any tests of note?
 Test to run logger middleware
+Error handling tests
 
 #### UML
 
