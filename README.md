@@ -10,7 +10,7 @@ Basic API server with middleware and practice deployment.
 
 ### Links and Resources
 
-- [GitHub Actions ci/cd](https://github.com/rkgallaway/server-deployment-practice-d51/actions)
+- [GitHub Actions ci/cd](https://github.com/Jchips/server-deployment-practice/actions)
 - [Back-end server url](https://server-deployment-practice-dev-2lou.onrender.com/)
 
 ### Collaborators
